@@ -1,22 +1,46 @@
 {
-    "feedback": [
-        {
-            "id": 1,
-            "rating": 10,
-            "user_name": "Tony Stark",
-            "text": "You are the ironman of this world"
-        },
-        {
-            "id": 2,
-            "rating": 9,
-            "user_name": "Bruce Wayne",
-            "text": "You are the batman of this world"
-        },
-        {
-            "id": 3,
-            "rating": 8,
-            "user_name": "Peter Parker",
-            "text": "You are the spiderman of this world"
-        }
-    ]
+  "dogs": [
+    {
+      "name": "cheerry",
+      "age": "20",
+      "gender": "male",
+      "place": "new delhi",
+      "id": 1
+    },
+    {
+      "name": "killy",
+      "age": "20",
+      "gender": "male",
+      "place": "new delhi",
+      "id": 2
+    },
+    {
+      "name": "killy",
+      "age": "20",
+      "gender": "male",
+      "place": "new delhi",
+      "id": 3
+    },
+    {
+      "name": "killy",
+      "age": "20",
+      "gender": "male",
+      "place": "new delhi",
+      "id": 4
+    },
+    {
+      "name": "killy",
+      "age": "20",
+      "gender": "male",
+      "place": "new delhi",
+      "id": 5
+    },
+    {
+      "name": "lucy",
+      "age": "6",
+      "gender": "female",
+      "place": "new delhi",
+      "id": 6
+    }
+  ]
 }
