@@ -1,8 +1,71 @@
 {
   "users": [
-   
+    {
+      "username": "nikhil",
+      "email": "vashishtnikhil158@gmail.com",
+      "password": "12345",
+      "repeat_password": "12345",
+      "doctor": true,
+      "id": 1
+    },
+    {
+      "username": "Deven",
+      "email": "dev@gmail.com",
+      "password": "12345",
+      "repeat_password": "12345",
+      "doctor": false,
+      "id": 2
+    },
+    {
+      "username": "darshan",
+      "email": "darshan@gmail.com",
+      "password": "12345",
+      "repeat_password": "12345",
+      "doctor": true,
+      "id": 3
+    },
+    {
+      "username": "gunajn",
+      "email": "gunjan@gmail.com",
+      "password": "12345",
+      "repeat_password": "12345",
+      "doctor": true,
+      "id": 4
+    }
   ],
-  "appointments":[
-    
+  "appointments": [
+    {
+      "name": "Amit ",
+      "img": "https://via.placeholder.com/350x250",
+      "specialization": "Cardiologist",
+      "experience": "5",
+      "location": "delhi",
+      "date": "2023-05-04",
+      "slots": "6",
+      "fee": "100",
+      "id": 1
+    },
+    {
+      "name": "manoj",
+      "img": "https://via.placeholder.com/350x250",
+      "specialization": "Pediatrician",
+      "experience": "5",
+      "location": "delhi",
+      "date": "2023-05-20",
+      "slots": "5",
+      "fee": "1000",
+      "id": 2
+    },
+    {
+      "name": "Nikhil Kumar",
+      "img": "https://via.placeholder.com/350x250",
+      "specialization": "Cardiologist",
+      "experience": "5",
+      "location": "delhi",
+      "date": "2023-05-06",
+      "slots": "4",
+      "fee": "200",
+      "id": 3
+    }
   ]
 }
