@@ -66,6 +66,30 @@
       "slots": "4",
       "fee": "200",
       "id": 3
+    },
+    {
+      "name": "jishnu",
+      "img": "https://via.placeholder.com/350x250",
+      "specialization": "Dermatologist",
+      "experience": "3",
+      "location": "delhi",
+      "date": "2023-05-28",
+      "slots": "4",
+      "fee": "123",
+      "id": 4
+    },
+    {
+      "name": "Dummy User",
+      "img": "https://via.placeholder.com/350x250",
+      "specialization": "Pediatrician",
+      "experience": "3",
+      "location": "delhi",
+      "date": "2023-05-28",
+      "slots": "3",
+      "fee": "123",
+      "id": 5
     }
-  ]
+  ],
+  "freelancers":[]
+ 
 }
