@@ -90,6 +90,67 @@
       "id": 5
     }
   ],
-  "freelancers":[]
- 
+  "freelancers": [
+    {
+      "name": "Nikhil Kumar",
+      "email": "vashishtnikhil158@gmail.com",
+      "password": "12345",
+      "profession": "WebDeveloper",
+      "skills": [
+        "Html ",
+        "css",
+        " java"
+      ],
+      "hourly_rate": "25",
+      "profile_picture": "https://via.placeholder.com/350x250",
+      "isBooked": false,
+      "id": 1
+    },
+    {
+      "name": "Manoj",
+      "email": "gunjan@gmail.com",
+      "password": "12345",
+      "profession": "GraphicDesigner",
+      "skills": [
+        "HTml",
+        "css",
+        "java"
+      ],
+      "hourly_rate": "60",
+      "profile_picture": "https://via.placeholder.com/350x250",
+      "isBooked": true,
+      "id": 3,
+      "store": false
+    },
+    {
+      "name": "deven",
+      "email": "gunjan@gmail.com",
+      "password": "12345",
+      "profession": "GraphicDesigner",
+      "skills": [
+        "HTml",
+        "css",
+        "java"
+      ],
+      "hourly_rate": "40",
+      "profile_picture": "https://via.placeholder.com/350x250",
+      "isBooked": false,
+      "id": 4
+    },
+    {
+      "name": "amit",
+      "email": "gunjan@gmail.com",
+      "password": "12345",
+      "profession": "GraphicDesigner",
+      "skills": [
+        "HTml",
+        "css",
+        "java"
+      ],
+      "hourly_rate": "10",
+      "profile_picture": "https://via.placeholder.com/350x250",
+      "isBooked": false,
+      "id": 5
+    }
+  ]
 }
